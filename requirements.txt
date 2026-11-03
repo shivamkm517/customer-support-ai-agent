@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic-settings
+pytest
+sqlalchemy
+langchain-core
+pypdf
+langchain-text-splitters
+cohere
+qdrant-client
